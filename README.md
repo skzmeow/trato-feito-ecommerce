@@ -16,9 +16,7 @@ O projeto contempla as etapas de levantamento de requisitos, prototipação de i
 [GitHub](https://github.com/)  
 [Figma](https://www.figma.com/)  
 [Draw.IO](https://app.diagrams.net/)  
-[Lucidchart](https://www.lucidchart.com/)  
-[Trello](https://trello.com/)  
-[Jira Software](https://www.atlassian.com/software/jira)  
+[Lucidchart](https://www.lucidchart.com/) 
 
 ## Organização do Projeto
 
