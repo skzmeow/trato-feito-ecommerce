@@ -1,7 +1,7 @@
 # Gold & Silver Pawn Shop | E-commerce
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Página Inicial da Interface" width="300">
+  <img src="assets/interface-prototype-inicial-page.jpg" alt="Página Inicial da Interface" width="300">
   <br>
   <sub>Página Inicial da Interface do E-commerce</sub>
 </p>
