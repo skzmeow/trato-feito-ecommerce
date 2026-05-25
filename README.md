@@ -1,6 +1,6 @@
 # Gold & Silver Pawn Shop | E-commerce
 
- <figure>
+ <figure align="center">
   <img src="https://github.com/m0ra1s/trato-feito-ecommerce/blob/main/assets/interface-prototype-inicial-page.jpg" alt="Página Inicial da Interface" width="300">
   <figcaption>Página Inicial da Interface do E-commerce</figcaption>
 </figure>
