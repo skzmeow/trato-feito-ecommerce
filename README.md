@@ -1,4 +1,4 @@
-<p align="center"> # Gold & Silver Pawn Shop | E-commerce </p>
+<h1 align="center">Gold & Silver Pawn Shop | E-commerce</h1>
 
 <p align="center">
   <img src="assets/interface-prototype-inicial-page.jpg" alt="Página Inicial da Interface" width="300">
