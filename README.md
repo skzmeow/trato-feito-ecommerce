@@ -15,7 +15,7 @@ O projeto contempla as etapas de levantamento de requisitos, prototipação de i
 ## Organização do Projeto
 
  `docs/requisitos/`: requisitos funcionais, não funcionais, diagramas e narrativas  
- `docs/interface/`: wireframes e protótipos do sistema  
+ `docs/interface/`: protótipo da interface do sistema
  `docs/metricas/`: cálculo de pontos de função e métricas  
  `docs/scrum/`: backlog, sprint e burndown chart  
  `docs/testes/`: plano e casos de testes  
