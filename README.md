@@ -19,3 +19,7 @@ O projeto contempla as etapas de levantamento de requisitos, prototipação de i
  `docs/metricas/`: cálculo de pontos de função e métricas  
  `docs/scrum/`: backlog, sprint e burndown chart  
  `docs/testes/`: plano e casos de testes  
+
+ ## Protótipo de Interface
+
+ ![Página Inicial da Interface do E-commerce](URL-da-sua-imagem)
