@@ -1,7 +1,7 @@
 # Gold & Silver Pawn Shop | E-commerce
 
  <figure>
-  <img src="[https://github.com/m0ra1s/trato-feito-ecommerce/blob/main/assets/interface-prototype-inicial-page.jpg]" alt="Página Inicial da Interface" width="300">
+  <img src="https://github.com/m0ra1s/trato-feito-ecommerce/blob/main/assets/interface-prototype-inicial-page.jpg" alt="Página Inicial da Interface" width="300">
   <figcaption>Página Inicial da Interface do E-commerce</figcaption>
 </figure>
 
@@ -27,4 +27,4 @@ O projeto contempla as etapas de levantamento de requisitos, prototipação de i
 
 ## Autores do Projeto
 
-skzmeow(https://github.com/skzmeow)
+| [m0ra1s](https://github.com/m0ra1s) | [skzmeow](https://github.com/skzmeow) | 
