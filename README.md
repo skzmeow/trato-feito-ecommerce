@@ -28,4 +28,5 @@ O projeto contempla as etapas de levantamento de requisitos, prototipação de i
 
 ## Autores do Projeto
 
-| [m0ra1s](https://github.com/m0ra1s) | [skzmeow](https://github.com/skzmeow) | 
+| [m0ra1s](https://github.com/m0ra1s) | [skzmeow](https://github.com/skzmeow) | [isace2](https://github.com/isace2) | [Hir4n_Matt](https://github.com/Hir4n_Matt) | [AndersonLuizBarbosa](https://github.com/AndersonLuizBarbosa) |
+
