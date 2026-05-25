@@ -1,5 +1,10 @@
 # Gold & Silver Pawn Shop | E-commerce
 
+ <figure>
+  <img src="[https://github.com/m0ra1s/trato-feito-ecommerce/blob/main/assets/interface-prototype-inicial-page.jpg]" alt="Página Inicial da Interface" width="300">
+  <figcaption>Página Inicial da Interface do E-commerce</figcaption>
+</figure>
+
 Projeto acadêmico desenvolvido em equipe para a disciplina de Engenharia de Software I, com o objetivo de realizar a modelagem de um sistema de e-commerce para a empresa “Gold & Silver Pawn Shop” (Loja do Trato Feito), escolhida pelos integrantes e validada pelo professor. A empresa utilizada como referência já existe e foi selecionada para fins acadêmicos.
 O projeto contempla as etapas de levantamento de requisitos, prototipação de interface, gestão de configuração de software, métricas, SCRUM e testes.
 
@@ -18,8 +23,8 @@ O projeto contempla as etapas de levantamento de requisitos, prototipação de i
  `docs/interface/`: protótipo da interface do sistema
  `docs/metricas/`: cálculo de pontos de função e métricas  
  `docs/scrum/`: backlog, sprint e burndown chart  
- `docs/testes/`: plano e casos de testes  
+ `docs/testes/`: plano e casos de testes
 
- ## Protótipo de Interface
+## Autores do Projeto
 
- ![Página Inicial da Interface do E-commerce](https://github.com/m0ra1s/trato-feito-ecommerce/blob/main/assets/interface-prototype-inicial-page.jpg)
+skzmeow(https://github.com/skzmeow)
