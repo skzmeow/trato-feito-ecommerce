@@ -1,10 +1,13 @@
-# Gold & Silver Pawn Shop | E-commerce
+<p align="center">
+  # Gold & Silver Pawn Shop | E-commerce
+</p>
 
 <p align="center">
   <img src="assets/interface-prototype-inicial-page.jpg" alt="Página Inicial da Interface" width="300">
   <br>
   <sub>Página Inicial da Interface do E-commerce</sub>
 </p>
+
 
 
 Projeto acadêmico desenvolvido em equipe para a disciplina de Engenharia de Software I, com o objetivo de realizar a modelagem de um sistema de e-commerce para a empresa “Gold & Silver Pawn Shop” (Loja do Trato Feito), escolhida pelos integrantes e validada pelo professor. A empresa utilizada como referência já existe e foi selecionada para fins acadêmicos.
